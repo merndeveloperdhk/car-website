@@ -3,3 +3,19 @@
     grid-template-columns: 4fr 1fr;
     gap: 12px;
 }
+@media screen and (max-width: 576px) {
+    .shop-container {
+        display: grid;
+        grid-template-columns:  1fr;
+    }
+    .cart{
+        margin: 0 32px;
+    }
+    .menuBar{
+        margin: 0 32px;
+        
+    }
+    .reg{
+       padding-bottom: 20px;
+    }
+  }

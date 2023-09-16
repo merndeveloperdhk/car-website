@@ -6,7 +6,7 @@
       "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
       "price": 75000,
       "manufacturer": "BMW",
-      "ratings": 5
+      "shiping": 5
     },
     {
       "id": 2,
@@ -15,16 +15,16 @@
       "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
       "price": 38000,
       "manufacturer": "Tesla motors",
-      "ratings": 4.5
+      "shiping": 4
     },
     {
       "id": 3,
-      "image": "https://i.ibb.co/M7xRbv8/car-07.jpg",
+      "image": "https://i.ibb.co/5kRk86Z/car-09.jpg",
       "name": "bmw BX850 2023",
       "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
       "price": 15000,
       "manufacturer": "BMW",
-      "ratings": 2.5
+      "shiping": 2
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
       "price": 15000,
       "manufacturer": "Marcidiz",
-      "ratings": 2.5
+      "shiping": 2
     },
     {
       "id": 5,
@@ -42,7 +42,7 @@
       "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
       "price": 15000,
       "manufacturer": "Toyota",
-      "ratings": 2.5
+      "shiping": 3
     },
     {
       "id": 6,
@@ -51,25 +51,25 @@
       "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
       "price": 15000,
       "manufacturer": "Toyota",
-      "ratings": 2.5
+      "shiping": 6
     },
     {
       "id": 7,
-      "image": "https://i.ibb.co/8zVcyjw/car-05.jpg",
+      "image": "https://i.ibb.co/sR4Rqyb/car-08.jpg",
       "name": "bmw",
       "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
       "price": 15000,
       "manufacturer": "Toyota",
-      "ratings": 2.5
+      "shiping": 1
     },
     {
       "id": 8,
-      "image": "https://i.ibb.co/8zVcyjw/car-05.jpg",
+      "image": "https://i.ibb.co/5kRk86Z/car-09.jpg",
       "name": "bmw",
       "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
       "price": 15000,
       "manufacturer": "Toyota",
-      "ratings": 2.5
+      "shiping": 4
     },
     {
       "id": 9,
@@ -78,33 +78,33 @@
       "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
       "price": 15000,
       "manufacturer": "Toyota corpo",
-      "ratings": 2.5
+      "shiping": 6
     },
     {
       "id": 10,
-      "image": "https://i.ibb.co/8zVcyjw/car-05.jpg",
+      "image": "https://i.ibb.co/zrWgtMC/car-02.jpg",
       "name": "Lamborgini LV26520",
       "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
       "price": 24000,
       "manufacturer": "Lamborgini car ",
-      "ratings": 2.5
+      "shiping": 5
     },
     {
       "id": 11,
-      "image": "https://i.ibb.co/8zVcyjw/car-05.jpg",
+      "image": "https://i.ibb.co/XJsGRdd/car-03.jpg",
       "name": "Ferarri FX2304",
       "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
       "price": 19000,
       "manufacturer": "Ferarri",
-      "ratings": 4.5
+      "shiping": 4
     },
     {
       "id": 12,
-      "image": "https://i.ibb.co/8zVcyjw/car-05.jpg",
+      "image": "https://i.ibb.co/mtzbjn8/car-01.jpg",
       "name": "Toyota hybrid",
       "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
       "price": 15000,
       "manufacturer": "Toyota Corpora",
-      "ratings": 4.00
+      "shiping": 4
     }
   ]

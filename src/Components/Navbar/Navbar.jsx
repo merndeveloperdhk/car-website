@@ -2,20 +2,20 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="sticky top-0 z-10">
-      <div className="header-container flex flex-col md:flex-row justify-between items-center bg-sky-300 px-5">
+    <div className="menuBar sticky top-0 z-10">
+      <div className="header-container flex flex-col md:flex-row justify-between items-center bg-gray-200 px-5">
         
           <a  href="">Brand logo</a>
        
         <div className="menu">
-          <ul className="flex gap-4 text-xl">
-            <a href="/Home">Home</a>
-          <a href="/Services">Services</a>
-          <a href="/Products">Producs</a>
-           <a href="/Contact us">contact us</a>
+          <ul className="flex gap-3 text-xl ">
+            <a className="font-semibold hover:text-red-600" href="/Home">Home</a>
+          <a className="font-semibold hover:text-red-600" href="/Services">Services</a>
+          <a className="font-semibold hover:text-red-600" href="/Products">Producs</a>
+           <a className="font-semibold hover:text-red-600" href="/Contact us">contact us</a>
           </ul>
         </div>
-        <div className="right flex gap-4">
+        <div className="reg right flex gap-4">
           <button>log in</button>
           <button>Registration</button>
         </div>
