@@ -2,13 +2,22 @@ import Car from '../Car/car';
 import './Shop.css'
 import React, { useEffect, useState } from 'react';
 
+
 const Shop = () => {
-    const [cars, setCart] = useState([]);
+    const [cars, setCars] = useState([]);
+    const [cart, setCart] = useState([]);
+
     useEffect(() => {
         fetch('cars.json')
         .then(res => res.json())
-        .then(data => setCart(data))
+        .then(data => setCars(data))
     },[])
+    //   handle button add to cart
+const handleAddToCart = (car) => {
+    const newCart = [...cart, car];
+    setCart(newCart)
+}
+
     return (
         <div>
             <div className="shop-container mt-5 ">
@@ -17,6 +26,8 @@ const Shop = () => {
                         cars.map(car => <Car
                              key={car.id}
                              car = {car}
+                             handleAddToCart ={handleAddToCart}
+
                              ></Car>)
                     }
                 </div>
