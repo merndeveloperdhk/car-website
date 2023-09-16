@@ -77,7 +77,7 @@
       "name": "Toyota allion",
       "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
       "price": 15000,
-      "manufacturer": "Toyota corporation",
+      "manufacturer": "Toyota corpo",
       "ratings": 2.5
     },
     {
@@ -104,7 +104,7 @@
       "name": "Toyota hybrid",
       "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
       "price": 15000,
-      "manufacturer": "Toyota Corporation",
+      "manufacturer": "Toyota Corpora",
       "ratings": 4.00
     }
   ]

@@ -20,7 +20,7 @@ const handleAddToCart = (car) => {
 
     return (
         <div>
-            <div className="shop-container mt-5 ">
+            <div className="shop-container mt-5  ">
                 <div className="product-container grid grid-cols-1 md:grid-cols-3 gap-3 mx-16">
                     {
                         cars.map(car => <Car
@@ -31,8 +31,9 @@ const handleAddToCart = (car) => {
                              ></Car>)
                     }
                 </div>
-                <div className="cart bg-green-300">
-                    <h2>Order summery</h2>
+                <div className="cart bg-green-300 ">
+                    <h2 className='mb-1 font-bold text-xl bg-red-500 text-white py-1 sticky top-10 '>Order summery</h2>
+                    <p className='sticky top-20'>Selected cars:{cart.length}</p>
                 </div>
             </div>
         </div>

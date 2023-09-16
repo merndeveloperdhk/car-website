@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div>
+    <div className="sticky top-0 z-10">
       <div className="header-container flex flex-col md:flex-row justify-between items-center bg-sky-300 px-5">
         
           <a  href="">Brand logo</a>
