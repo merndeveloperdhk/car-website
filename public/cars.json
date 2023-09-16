@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/5kRk86Z/car-09.jpg",
+      "name": "BMW BT958X",
+      "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
+      "price": 75000,
+      "manufacturer": "BMW",
+      "ratings": 5
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/sR4Rqyb/car-08.jpg",
+      "name": "Tesla sp2510",
+      "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
+      "price": 38000,
+      "manufacturer": "Tesla motors",
+      "ratings": 4.5
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/M7xRbv8/car-07.jpg",
+      "name": "bmw BX850 2023",
+      "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
+      "price": 15000,
+      "manufacturer": "BMW",
+      "ratings": 2.5
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/LrGPTw0/car-06.jpg",
+      "name": "bmw",
+      "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
+      "price": 15000,
+      "manufacturer": "Marcidiz",
+      "ratings": 2.5
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/8zVcyjw/car-05.jpg",
+      "name": "Toyota x corolla",
+      "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
+      "price": 15000,
+      "manufacturer": "Toyota",
+      "ratings": 2.5
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/whf8HFM/car-04.jpg",
+      "name": "Toyota premio",
+      "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
+      "price": 15000,
+      "manufacturer": "Toyota",
+      "ratings": 2.5
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/8zVcyjw/car-05.jpg",
+      "name": "bmw",
+      "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
+      "price": 15000,
+      "manufacturer": "Toyota",
+      "ratings": 2.5
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/8zVcyjw/car-05.jpg",
+      "name": "bmw",
+      "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
+      "price": 15000,
+      "manufacturer": "Toyota",
+      "ratings": 2.5
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/8zVcyjw/car-05.jpg",
+      "name": "Toyota allion",
+      "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
+      "price": 15000,
+      "manufacturer": "Toyota corporation",
+      "ratings": 2.5
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/8zVcyjw/car-05.jpg",
+      "name": "Lamborgini LV26520",
+      "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
+      "price": 24000,
+      "manufacturer": "Lamborgini car ",
+      "ratings": 2.5
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/8zVcyjw/car-05.jpg",
+      "name": "Ferarri FX2304",
+      "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
+      "price": 19000,
+      "manufacturer": "Ferarri",
+      "ratings": 4.5
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/8zVcyjw/car-05.jpg",
+      "name": "Toyota hybrid",
+      "description": "C programming is a versatile, procedural language for software development, known for efficiency and portability.",
+      "price": 15000,
+      "manufacturer": "Toyota Corporation",
+      "ratings": 4.00
+    }
+  ]
