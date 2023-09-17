@@ -15,7 +15,7 @@ const Navbar = () => {
            <a className="font-semibold hover:text-red-600" href="/Contact us">contact us</a>
           </ul>
         </div>
-        <div className="reg right flex gap-4">
+        <div className="reg right flex gap-4 font-bold">
           <button>log in</button>
           <button>Registration</button>
         </div>

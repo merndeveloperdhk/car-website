@@ -20,7 +20,7 @@ const Car = (props) => {
           <h1 className="text-xl my-2">Manufacturar: {manufacturer}</h1>
           <div className="flex justify-between text-green-600 text-xl font-semibold">
             <p>$ {price}</p>
-            <p>Ratings: {ratings}</p>
+            <p>Ratings: {ratings} Star</p>
           </div>
         </div>
           <button onClick={()=>handleAddToCart(props.car)} className="btn btn-info w-full hover:bg-green-600 hover:text-white">

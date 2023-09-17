@@ -6,20 +6,22 @@ const Cart = (props) => {
 //   console.log(cart);
   let total = 0;
   let totalShiping = 0;
+
   for(const car of cart){
     total = total + car.price;
-    console.log(total);
     totalShiping = totalShiping + car.shiping;
-  }
-  const tax = (total * 0.07).toFixed(2);
+    console.log(car);
+}
+const tax = (total * 0.07).toFixed(2);
   const grandTotal = total + totalShiping + tax;
+
   return (
     <div className=" sticky top-[43px] ">
       <h2 className="mb-1 font-bold text-xl bg-red-500 text-white py-1  rounded-t-lg">
         Order Summery </h2>
       <div className="text-justify px-2 space-y-2">
       <p className="sticky top-[82px]">Selected cars: {cart.length}</p>
-      {/* <p><span className="font-semibold">Cars Name:</span></p> */}
+      <p><span className="font-semibold">Cars Name:</span>{cart.name}</p>
       <p><span className="font-semibold">Total Price:</span>$ {total}</p>
       <p><span className="font-semibold">Total Shipping: </span>$ {totalShiping}</p>
       <p><span className="font-semibold">Tax:</span>$ {tax} </p>
